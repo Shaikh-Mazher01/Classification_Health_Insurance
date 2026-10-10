@@ -2,6 +2,8 @@
 
 Ranks health-insurance customers by their likelihood of buying vehicle insurance, so a sales team can contact the best prospects first.
 
+🔗 **Live App:** [View Streamlit Application](https://classificationhealthinsurance-byfahad.streamlit.app/)
+
 ## Results (20 % untouched test set)
 | Metric | Value |
 |---|---|
