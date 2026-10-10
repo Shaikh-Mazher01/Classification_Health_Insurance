@@ -1,9 +1,3 @@
-"""
-Health Insurance -> Vehicle Insurance cross-sell scoring app.
-
-Run:   streamlit run app.py
-Needs: models/final_pipeline.joblib and models/meta.json (created by the notebook, section 11).
-"""
 import io
 import json
 from pathlib import Path
